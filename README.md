@@ -1,6 +1,7 @@
 # Quantitative Systems & Pharmacometrics Portfolio
 
-**Abraham M. Yehezkel Cortes**  
+**Abraham Yehezkel Cortes**  
+
 📍 Mexico City | 📧 [abraham.yehezkel@hotmail.com](mailto:abraham.yehezkel@hotmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/abraham-yehezkel/)
 
 ## 🧬 About Me
