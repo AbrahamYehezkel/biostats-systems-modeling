@@ -19,8 +19,8 @@ With a strong foundation in compartmental mass balances, numerical optimization,
 ## 📂 Portfolio Projects
 
 *(Note: Data and specific parameters in these projects have been anonymized or simulated to protect academic intellectual property).*
-
-### 1. [Two-Compartment PK Model with Non-linear ODE Solver](./pharmacometrics/pk-modeling/)
+rtmen
+### 1. [Two-Compartment PK Model with Non-linear ODE Solver](./pharmacometrics/two-comparment-pk/)
 * **Focus:** Pharmacometrics / Systems Pharmacology.
 * **Description:** Implementation of a robust two-compartment pharmacokinetic model to simulate drug distribution and elimination. Built using custom non-linear ODE solvers to ensure mathematical stability and biological plausibility.
 * **Tools:** Python (SciPy, NumPy) / Mathematica.
