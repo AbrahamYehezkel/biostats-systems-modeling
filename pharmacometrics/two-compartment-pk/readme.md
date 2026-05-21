@@ -22,6 +22,9 @@ Where:
 ## 🛠️ Implementation Details
 * **Solver Selection:** Implemented using `scipy.integrate.solve_ivp` with the **Radau** method, ensuring mathematical convergence and absolute stability even under stiff conditions caused by rapid saturation transitions.
 * **Outputs:** The script generates time-concentration profiles for both compartments and shows a high-resolution simulation plot.
+  
+  <img width="781" height="468" alt="download" src="https://github.com/user-attachments/assets/780d5371-1e1d-49d4-a86b-31ce745909f6" />
+
 
 ## 🚀 How to Run
 ```bash
